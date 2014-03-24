@@ -1,0 +1,16 @@
+{
+  "name": "utsire",
+  "version": "0.0.0",
+  "description": "Shipping Forecast parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Douglas Gardner <douglas@chippy.ch>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "~2.34.0",
+    "htmlparser2": "~3.7.1"
+  }
+}
