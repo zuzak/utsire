@@ -10,7 +10,7 @@
   "author": "Douglas Gardner <douglas@chippy.ch>",
   "license": "ISC",
   "dependencies": {
-    "request": "~2.34.0",
+    "request": "~2.75.0",
     "htmlparser2": "~3.7.1"
   }
 }
